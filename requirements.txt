@@ -1,0 +1,14 @@
+# PyTorch（CUDA 11.8）
+torch==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+
+scikit-image
+tensorboardX
+easydict
+transformers==4.37.0
+opencv-python
+matplotlib
+timm
+fvcore
+numpy==1.23.5
